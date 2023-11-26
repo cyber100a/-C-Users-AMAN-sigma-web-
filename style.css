@@ -1,4 +1,5 @@
-.red{
-    color: blue;
-    background-color: brown;
+canvas {
+    border: 100px solid rgb(255, 7, 7);
+    height: 200px;
+    width: 1000px;
 }
